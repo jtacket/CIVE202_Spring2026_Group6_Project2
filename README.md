@@ -5,7 +5,7 @@ NDOT has chosen our firm to convert their Excel-based concrete mix design model 
 
 ## Link to data and codes
 ### Excel-based concrete mix design model
-[Open Excel concrete mix design model]
+[Open Excel concrete mix design model](CIVE202_Spring2026_Group6_Project2_ExcelMixDesign.xlsx)
 
 ### Python Notebook containing the team's code
 [Open notebook]
