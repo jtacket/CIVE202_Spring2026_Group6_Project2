@@ -5,17 +5,17 @@ NDOT has chosen our firm to convert their Excel-based concrete mix design model 
 
 ## Link to data and codes
 ### Excel-based concrete mix design model
-[open Excel concrete mix design model]
+[Open Excel concrete mix design model]
 
-### Python Notebook containing my code
-[open notebook]
+### Python Notebook containing the team's code
+[Open notebook]
 
-## My analysis of the data
+## Group's analysis of the data
 ### Written Report
-[open written report]
+[Open written report](CIVE202_Spring2026_Group5_Project2_WrittenReport.docx)
 
 ### Scope of Work
-[open scope of work]
+[Open scope of work]
 
 ### Annotated Code document
-[open annotated code]
+[Open annotated code]
