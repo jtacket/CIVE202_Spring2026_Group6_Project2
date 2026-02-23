@@ -12,7 +12,7 @@ NDOT has chosen our firm to convert their Excel-based concrete mix design model 
 
 ## Group's analysis of the data
 ### Written Report
-[Open written report](CIVE202_Spring2026_Group5_Project2_WrittenReport.docx)
+[Open written report]
 
 ### Scope of Work
 [Open scope of work]
