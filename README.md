@@ -19,3 +19,7 @@ NDOT has chosen our firm to convert their Excel-based concrete mix design model 
 
 ### Annotated Code document
 [Open annotated code]
+
+## Group's Schedule
+### Gantt Chart
+[Open Gantt Chart]
