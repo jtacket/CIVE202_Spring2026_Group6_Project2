@@ -26,3 +26,6 @@ NDOT has chosen our firm to convert their Excel-based concrete mix design model 
 ## Group's Schedule
 ### Gantt Chart
 [Open Gantt Chart](CIVE202_Spring2026_Group6_Project2_GanttChart.xlsx)
+
+### Flow Chart
+[Open Flow Chart](CIVE202_Spring2025_Group6_Project2_FlowChart.pdf)
