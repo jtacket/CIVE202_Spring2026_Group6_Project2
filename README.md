@@ -20,6 +20,9 @@ NDOT has chosen our firm to convert their Excel-based concrete mix design model 
 ### Annotated Code document
 [Open annotated code]
 
+### Mix Design Research
+[Open Mix design research](CIVE202_Spring2026_Group6_Project2_MixDesignResearch.docx)
+
 ## Group's Schedule
 ### Gantt Chart
 [Open Gantt Chart](CIVE202_Spring2026_Group6_Project2_GanttChart.xlsx)
